@@ -1,7 +1,7 @@
 <h1>WHO WE ARE</h1>
 <h3>Sbrikki's Books is an apolitical book club for everyone .<br/>The main aim is the growth of every member from a cultural point of view. We also drink.</h3>
 
-<h2>WHAT WE DO</h2>
+<h2>WHAT WE DO 🚀</h2>
 <h4>
 The idea comes from the need of some of us to have a space in which to share the passion for culture and the growth of personality while attending an environment where it is difficult to have access to cultural resources.
 
