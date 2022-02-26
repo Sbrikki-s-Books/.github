@@ -1,3 +1,11 @@
+
+<div align="center">
+  <h1>Hello reader! 📖</h1>
+  <a href="https://www.sbrikkisbooks.ga">
+      <img alt="Sbrikki's Books" src="https://img.shields.io/website?down_color=Red&down_message=Off&label=Sbrikki's Books Website&style=for-the-badge&up_color=blueviolet&up_message=On&url=https%3A%2F%2Fwww.sbrikkisbooks.ga" />
+  </a>
+</div>
+
 <h2>📚 WHO WE ARE</h2>
 <p>Sbrikki's Books is an apolitical book club for everyone .<br/>The main aim is the growth of every member from a cultural point of view. We also drink.</p>
 
